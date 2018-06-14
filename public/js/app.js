@@ -1,0 +1,1 @@
+angular.module('imageApp', ['ui.router','appRoutes','ImgUploadCtrl','ImgRetriveCtrl'])

@@ -1,0 +1,14 @@
+{
+  "name": "starter-node-angular",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "latest",
+    "font-awesome": "latest",
+    "animate.css": "latest",
+    "angular": "latest",
+    "angular-route": "latest",
+    "angular-bootstrap-calendar": "^0.29.3",
+    "angular-ui-router": "git@github.com:angular-ui/ui-router.git#cf3427162b5b4209a9feefb71ef4c54d2901514b",
+    "ngstorage": "^0.3.11"
+  }
+}
